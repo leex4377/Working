@@ -1,0 +1,6 @@
+C:\Users\yeelee\Desktop\Learning\C#\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe.config
+C:\Users\yeelee\Desktop\Learning\C#\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe
+C:\Users\yeelee\Desktop\Learning\C#\FirstProgram\FirstProgram\bin\Debug\FirstProgram.pdb
+C:\Users\yeelee\Desktop\Learning\C#\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csprojResolveAssemblyReference.cache
+C:\Users\yeelee\Desktop\Learning\C#\FirstProgram\FirstProgram\obj\Debug\FirstProgram.exe
+C:\Users\yeelee\Desktop\Learning\C#\FirstProgram\FirstProgram\obj\Debug\FirstProgram.pdb
